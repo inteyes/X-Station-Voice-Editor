@@ -19,3 +19,5 @@ All files are available to download on the [latest Release](https://github.com/i
 ### Afterword
 This panel was created using great [Ctrlr software](https://github.com/RomanKubiak/ctrlr). While you are able to run Ctrlr on your system - you are able to run this panel.<br>
 You also might want to check the [Youtube Demo](https://youtu.be/Isp7LjWkgqg).
+
+![X-Station editor](https://github.com/inteyes/X-Station-Voice-Editor/blob/main/.files/xstation.png)
